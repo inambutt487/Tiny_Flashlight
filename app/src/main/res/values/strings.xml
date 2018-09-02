@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Play with Flash</string>
+    <string-array name="values">
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>SOS</item>
+    </string-array>
+</resources>
